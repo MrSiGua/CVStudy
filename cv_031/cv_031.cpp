@@ -23,7 +23,8 @@ dst = cv.Sobel(src, ddepth, dx, dy[, dst[, ksize[, scale[, delta[, borderType]]]
 */
 
 #include "pch.h"
-#include <opcv342.h>
+//#include <opcv342.h>
+#include <opcv341.h>
 #include <iostream>
 #include <opencv2/opencv.hpp>
 
